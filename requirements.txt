@@ -1,0 +1,7 @@
+openai==0.10.2
+asyncio==3.4.3
+python-dotenv==0.19.1
+whisper==0.4.4
+boto3==1.18.48
+pydub==0.25.1
+SpeechRecognition==3.8.1
